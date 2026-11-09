@@ -1,0 +1,2 @@
+Programa de practica para el aprendizaje de Git.
+Proyecto de control de version local y remoto.
